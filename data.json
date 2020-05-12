@@ -1,0 +1,92 @@
+[
+  {
+    "region": "India",
+    "type": "Large",
+    "cost": 140,
+    "unit": 10
+  },
+  {
+    "region": "India",
+    "type": "2XLarge",
+    "cost": 413,
+    "unit": 40
+  },
+  {
+    "region": "India",
+    "type": "4XLarge",
+    "cost": 890,
+    "unit": 80
+  },
+  {
+    "region": "India",
+    "type": "8XLarge",
+    "cost": 1300,
+    "unit": 160
+  },
+  {
+    "region": "India",
+    "type": "10XLarge",
+    "cost": 2970,
+    "unit": 320
+  },
+  {
+    "region": "New York",
+    "type": "Large",
+    "cost": 129,
+    "unit": 10
+  },
+  {
+    "region": "New York",
+    "type": "XLarge",
+    "cost": 230,
+    "unit": 10
+  },
+  {
+    "region": "New York",
+    "type": "2XLarge",
+    "cost": 450,
+    "unit": 40
+  },
+  {
+    "region": "New York",
+    "type": "4XLarge",
+    "cost": 774,
+    "unit": 80
+  },
+  {
+    "region": "New York",
+    "type": "8XLarge",
+    "cost": 1400,
+    "unit": 160
+  },
+  {
+    "region": "New York",
+    "type": "10XLarge",
+    "cost": 2820,
+    "unit": 320
+  },
+  {
+    "region": "China",
+    "type": "Large",
+    "cost": 110,
+    "unit": 10
+  },
+  {
+    "region": "China",
+    "type": "XLarge",
+    "cost": 200,
+    "unit": 10
+  },
+  {
+    "region": "China",
+    "type": "4XLarge",
+    "cost": 670,
+    "unit": 80
+  },
+  {
+    "region": "China",
+    "type": "8XLarge",
+    "cost": 1180,
+    "unit": 160
+  }
+]
